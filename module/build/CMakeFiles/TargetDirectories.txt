@@ -1,0 +1,3 @@
+/home/yangshaopeng/project/count_cplus/module/build/CMakeFiles/rebuild_cache.dir
+/home/yangshaopeng/project/count_cplus/module/build/CMakeFiles/edit_cache.dir
+/home/yangshaopeng/project/count_cplus/module/build/CMakeFiles/tracking.dir
