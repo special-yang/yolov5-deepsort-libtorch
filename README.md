@@ -1,8 +1,7 @@
-# yolov5+deepsort with libtorch
-行人双向计数，yolov5和特征提取都使用了libtorch
+# 行人双向计数
+yolov5+deepsort 
+yolov5和deepsrot 基于libtorch实现
+使用之前首先从官网下在libtorch，然后更新cmakelist.txt 编译
 
 # Inference
-1. cd build
-2. cmake ..
-3. make all -j 
-4. ./main
+1. ./run.sh
